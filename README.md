@@ -1,6 +1,14 @@
 # A basics Templates
 some basic templates
 
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 © 2023 by gimenez with love. 
 	Todos los derechos reservados. 
 	Este código HTML y cualquier material adjunto están protegidos por las leyes de derechos de autor
